@@ -42,8 +42,9 @@ git clone https://github.com/your-username/pneumonia-detection.git
 ### 2. **Install Dependencies**
 You can install the required dependencies by running:
 
-bash
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 ### 3. **Download the Dataset**
 You can find the dataset for pneumonia X-ray detection on Kaggle:
 
