@@ -38,28 +38,13 @@ To clone this repository to your local machine, run the following command:
 
 ```bash
 git clone https://github.com/your-username/pneumonia-detection.git
-2. Install Dependencies
+```
+### 2. **Install Dependencies**
 You can install the required dependencies by running:
 
 bash
-Copy code
-pip install -r requirements.txt
-Here is the requirements.txt file:
-
-shell
-Copy code
-tensorflow>=2.0.0
-scikit-learn
-pandas
-matplotlib
-numpy
-Pillow
-Alternatively, you can manually install the dependencies using pip:
-
-bash
-Copy code
-pip install tensorflow scikit-learn pandas matplotlib numpy Pillow
-3. Download the Dataset
+```pip install -r requirements.txt```
+### 3. **Download the Dataset**
 You can find the dataset for pneumonia X-ray detection on Kaggle:
 
 Pneumonia X-ray Dataset on Kaggle
